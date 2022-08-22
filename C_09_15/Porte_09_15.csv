@@ -1,0 +1,25 @@
+﻿cat;Instituição financeira;Data;Total da Carteira de Pessoa Jurídica;Micro;Pequena;Média;Grande;Total não Individualizado Pessoa Jurídica;Total Exterior Pessoa Jurídica
+C;C - Conglomerado;set/15;1.480.077.971;69.377.844;134.033.654;337.295.954;442.017.675;238.745;497.114.098
+C%;C - Conglomerado;set/15;67,59%;45,48%;71,16%;66,56%;52,48%;83,41%;99,49%
+I;I - Instituição independente;set/15;709.849.327;83.181.268;54.320.010;169.464.641;400.275.499;47.480;2.560.429
+I%;I - Instituição independente;set/15;32,41%;54,52%;28,84%;33,44%;47,52%;16,59%;0,51%
+b1;b1 - Banco Comercial, Banco Múltiplo com Carteira Comercial ou Caixa Econômica;set/15;1.707.430.945;110.522.017;168.682.067;406.291.036;522.207.796;271.891;499.456.140
+b1%;b1 - Banco Comercial, Banco Múltiplo com Carteira Comercial ou Caixa Econômica;set/15;77,97%;72,45%;89,56%;80,17%;62,00%;94,99%;99,96%
+b2;b2 - Banco Múltiplo sem Carteira Comercial ou Banco de Investimento ou Banco de Câmbio;set/15;49.957.395;4.496.210;9.512.934;22.338.534;13.389.294;2.035;218.388
+b2%;b2 - Banco Múltiplo sem Carteira Comercial ou Banco de Investimento ou Banco de Câmbio;set/15;2,28%;2,95%;5,05%;4,41%;1,59%;0,71%;0,04%
+b3S;b3S - Cooperativa de Crédito Singulares;set/15;24.014.437;4.072.547;7.424.660;10.075.465;2.430.577;11.187;0
+b3S%;b3S - Cooperativa de Crédito Singulares;set/15;1,10%;2,67%;3,94%;1,99%;0,29%;3,91%;0,00%
+b3C;b3C - Central e Confederação de Cooperativas de Crédito;set/15;1.100.865;160.590;91.483;439.920;408.871;0;0
+b3C%;b3C - Central e Confederação de Cooperativas de Crédito;set/15;0,05%;0,11%;0,05%;0,09%;0,05%;0,00%;0,00%
+b4;b4 - Banco de Desenvolvimento;set/15;398.090.884;32.599.509;1.696.894;62.794.058;301.000.386;38;0
+b4%;b4 - Banco de Desenvolvimento;set/15;18,18%;21,37%;0,90%;12,39%;35,74%;0,01%;0,00%
+n1;n1 - Não Bancário de Crédito;set/15;9.329.433;708.191;945.626;4.821.582;2.852.960;1.074;0
+n1%;n1 - Não Bancário de Crédito;set/15;0,43%;0,46%;0,50%;0,95%;0,34%;0,38%;0,00%
+n2;n2 - Não Bancário de Mercado de Capitais;set/15;3.340;48;0;0;3.291;1;0
+n2%;n2 - Não Bancário de Mercado de Capitais;set/15;0,00%;0,00%;0,00%;0,00%;0,00%;0,00%;0,00%
+1;1 - Público;set/15;1.029.412.549;86.742.746;95.651.369;238.349.483;540.950.289;64.640;67.654.023
+1%;1 - Público;set/15;47,01%;56,86%;50,78%;47,03%;64,22%;22,58%;13,54%
+2;2 - Privado Nacional;set/15;846.396.845;47.323.259;63.252.824;169.706.733;187.354.806;179.334;378.579.888
+2%;2 - Privado Nacional;set/15;38,65%;31,02%;33,58%;33,49%;22,24%;62,65%;75,77%
+3;3 - Privado com Controle Estrangeiro;set/15;314.117.905;18.493.107;29.449.471;98.704.380;113.988.079;42.251;53.440.616
+3%;3 - Privado com Controle Estrangeiro;set/15;14,34%;12,12%;15,64%;19,48%;13,53%;14,76%;10,70%
