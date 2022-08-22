@@ -1,0 +1,27 @@
+﻿cat;Categoria;Data;Qt_Operações
+C;C - Conglomerado;jun/19;318.721.768
+C%;C - Conglomerado;jun/19;73,94%
+I;I - Instituição independente;jun/19;112.351.891
+I%;I - Instituição independente;jun/19;26,06%
+b1;b1 - Banco Comercial, Banco Múltiplo com Carteira Comercial ou Caixa Econômica;jun/19;351.893.495
+b1%;b1 - Banco Comercial, Banco Múltiplo com Carteira Comercial ou Caixa Econômica;jun/19;81,63%
+b2;b2 - Banco Múltiplo sem Carteira Comercial ou Banco de Investimento ou Banco de Câmbio;jun/19;10.946.481
+b2%;b2 - Banco Múltiplo sem Carteira Comercial ou Banco de Investimento ou Banco de Câmbio;jun/19;2,54%
+b3S;b3S - Cooperativa de Crédito Singulares;jun/19;10.352.317
+b3S%;b3S - Cooperativa de Crédito Singulares;jun/19;2,40%
+b3C;b3C - Central e Confederação de Cooperativas de Crédito;jun/19;436
+b3C%;b3C - Central e Confederação de Cooperativas de Crédito;jun/19;0,00%
+b4;b4 - Banco de Desenvolvimento;jun/19;118.905
+b4%;b4 - Banco de Desenvolvimento;jun/19;0,03%
+n1;n1 - Não Bancário de Crédito;jun/19;47.521.526
+n1%;n1 - Não Bancário de Crédito;jun/19;11,02%
+n2;n2 - Não Bancário de Mercado de Capitais;jun/19;150
+n2%;n2 - Não Bancário de Mercado de Capitais;jun/19;0,00%
+n4;n4 - Instituições de Pagamento;jun/19;10.240.349
+n4%;n4 - Instituições de Pagamento;jun/19;2,38%
+1;1 - Público;jun/19;80.814.317
+1%;1 - Público;jun/19;18,75%
+2;2 - Privado Nacional;jun/19;280.659.577
+2%;2 - Privado Nacional;jun/19;65,11%
+3;3 - Privado com Controle Estrangeiro;jun/19;69.599.765
+3%;3 - Privado com Controle Estrangeiro;jun/19;16,15%
