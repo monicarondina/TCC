@@ -1,0 +1,25 @@
+﻿cat;Instituição financeira;Total da Carteira de Pessoa Jurídica;Micro;Pequena;Média;Grande;Total não Individualizado Pessoa Jurídica;Total Exterior Pessoa Jurídica
+C;C - Conglomerado;1.282.879.478;68.044.605;114.230.815;299.022.840;416.882.409;28.589;384.670.220
+C%;C - Conglomerado;65,24%;51,20%;67,68%;66,79%;50,20%;85,59%;99,49%
+I;I - Instituição independente;683.558.467;64.848.297;54.538.722;148.693.559;413.487.901;4.812;1.985.177
+I%;I - Instituição independente;34,76%;48,80%;32,32%;33,21%;49,80%;14,41%;0,51%
+b1;b1 - Banco Comercial, Banco Múltiplo com Carteira Comercial ou Caixa Econômica;1.508.953.028;100.838.003;150.287.233;361.495.938;509.697.953;32.323;386.601.578
+b1%;b1 - Banco Comercial, Banco Múltiplo com Carteira Comercial ou Caixa Econômica;76,74%;75,88%;89,05%;80,74%;61,38%;96,77%;99,99%
+b2;b2 - Banco Múltiplo sem Carteira Comercial ou Banco de Investimento ou Banco de Câmbio;41.149.946;3.760.349;6.719.780;20.053.172;10.562.820;4;53.820
+b2%;b2 - Banco Múltiplo sem Carteira Comercial ou Banco de Investimento ou Banco de Câmbio;2,09%;2,83%;3,98%;4,48%;1,27%;0,01%;0,01%
+b3S;b3S - Cooperativa de Crédito Singulares;27.698.699;4.290.228;8.271.241;11.895.868;3.240.339;1.022;0
+b3S%;b3S - Cooperativa de Crédito Singulares;1,41%;3,23%;4,90%;2,66%;0,39%;3,06%;0,00%
+b3C;b3C - Central e Confederação de Cooperativas de Crédito;1.122.811;111.530;78.317;479.634;453.330;0;0
+b3C%;b3C - Central e Confederação de Cooperativas de Crédito;0,06%;0,08%;0,05%;0,11%;0,05%;0,00%;0,00%
+b4;b4 - Banco de Desenvolvimento;377.639.021;23.062.985;2.383.549;48.683.489;303.508.997;0;0
+b4%;b4 - Banco de Desenvolvimento;19,20%;17,35%;1,41%;10,87%;36,55%;0,00%;0,00%
+n1;n1 - Não Bancário de Crédito;9.874.401;829.768;1.029.416;5.108.296;2.906.870;51;0
+n1%;n1 - Não Bancário de Crédito;0,50%;0,62%;0,61%;1,14%;0,35%;0,15%;0,00%
+n2;n2 - Não Bancário de Mercado de Capitais;38;38;0;0;0;0;0
+n2%;n2 - Não Bancário de Mercado de Capitais;0,00%;0,00%;0,00%;0,00%;0,00%;0,00%;0,00%
+1;1 - Público;956.426.251;66.332.942;87.888.157;207.450.678;553.666.245;5.762;41.082.467
+1%;1 - Público;48,64%;49,91%;52,08%;46,34%;66,68%;17,25%;10,63%
+2;2 - Privado Nacional;777.035.247;52.411.974;56.753.619;164.924.277;183.983.178;23.775;318.938.424
+2%;2 - Privado Nacional;39,51%;39,44%;33,63%;36,84%;22,16%;71,18%;82,49%
+3;3 - Privado com Controle Estrangeiro;232.976.448;14.147.986;24.127.761;75.341.443;92.720.887;3.864;26.634.507
+3%;3 - Privado com Controle Estrangeiro;11,85%;10,65%;14,30%;16,83%;11,17%;11,57%;6,89%
