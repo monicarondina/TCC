@@ -1,0 +1,25 @@
+﻿cat;Categoria;Data;Qt_Operações
+C;C - Conglomerado;mar/14;349.453.134
+C%;C - Conglomerado;mar/14;80,08%
+I;I - Instituição independente;mar/14;86.925.975
+I%;I - Instituição independente;mar/14;19,92%
+b1;b1 - Banco Comercial, Banco Múltiplo com Carteira Comercial ou Caixa Econômica;mar/14;396.701.994
+b1%;b1 - Banco Comercial, Banco Múltiplo com Carteira Comercial ou Caixa Econômica;mar/14;90,91%
+b2;b2 - Banco Múltiplo sem Carteira Comercial ou Banco de Investimento ou Banco de Câmbio;mar/14;6.523.247
+b2%;b2 - Banco Múltiplo sem Carteira Comercial ou Banco de Investimento ou Banco de Câmbio;mar/14;1,49%
+b3S;b3S - Cooperativa de Crédito Singulares;mar/14;7.005.530
+b3S%;b3S - Cooperativa de Crédito Singulares;mar/14;1,61%
+b3C;b3C - Central e Confederação de Cooperativas de Crédito;mar/14;885
+b3C%;b3C - Central e Confederação de Cooperativas de Crédito;mar/14;0,00%
+b4;b4 - Banco de Desenvolvimento;mar/14;112.173
+b4%;b4 - Banco de Desenvolvimento;mar/14;0,03%
+n1;n1 - Não Bancário de Crédito;mar/14;26.034.852
+n1%;n1 - Não Bancário de Crédito;mar/14;5,97%
+n2;n2 - Não Bancário de Mercado de Capitais;mar/14;428
+n2%;n2 - Não Bancário de Mercado de Capitais;mar/14;0,00%
+1;1 - Público;mar/14;102.345.909
+1%;1 - Público;mar/14;23,45%
+2;2 - Privado Nacional;mar/14;256.072.956
+2%;2 - Privado Nacional;mar/14;58,68%
+3;3 - Privado com Controle Estrangeiro;mar/14;77.960.244
+3%;3 - Privado com Controle Estrangeiro;mar/14;17,87%
