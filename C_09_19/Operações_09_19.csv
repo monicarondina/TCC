@@ -1,0 +1,27 @@
+﻿cat;Categoria;Data;Qt_Operações
+C;C - Conglomerado;set/19;319.259.322
+C%;C - Conglomerado;set/19;72,44%
+I;I - Instituição independente;set/19;121.447.508
+I%;I - Instituição independente;set/19;27,56%
+b1;b1 - Banco Comercial, Banco Múltiplo com Carteira Comercial ou Caixa Econômica;set/19;352.507.749
+b1%;b1 - Banco Comercial, Banco Múltiplo com Carteira Comercial ou Caixa Econômica;set/19;79,99%
+b2;b2 - Banco Múltiplo sem Carteira Comercial ou Banco de Investimento ou Banco de Câmbio;set/19;11.341.183
+b2%;b2 - Banco Múltiplo sem Carteira Comercial ou Banco de Investimento ou Banco de Câmbio;set/19;2,57%
+b3S;b3S - Cooperativa de Crédito Singulares;set/19;10.800.328
+b3S%;b3S - Cooperativa de Crédito Singulares;set/19;2,45%
+b3C;b3C - Central e Confederação de Cooperativas de Crédito;set/19;692
+b3C%;b3C - Central e Confederação de Cooperativas de Crédito;set/19;0,00%
+b4;b4 - Banco de Desenvolvimento;set/19;117.152
+b4%;b4 - Banco de Desenvolvimento;set/19;0,03%
+n1;n1 - Não Bancário de Crédito;set/19;52.654.595
+n1%;n1 - Não Bancário de Crédito;set/19;11,95%
+n2;n2 - Não Bancário de Mercado de Capitais;set/19;155
+n2%;n2 - Não Bancário de Mercado de Capitais;set/19;0,00%
+n4;n4 - Instituições de Pagamento;set/19;13.284.976
+n4%;n4 - Instituições de Pagamento;set/19;3,01%
+1;1 - Público;set/19;81.555.488
+1%;1 - Público;set/19;18,51%
+2;2 - Privado Nacional;set/19;286.421.275
+2%;2 - Privado Nacional;set/19;64,99%
+3;3 - Privado com Controle Estrangeiro;set/19;72.730.067
+3%;3 - Privado com Controle Estrangeiro;set/19;16,50%
