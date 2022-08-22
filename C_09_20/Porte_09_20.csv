@@ -1,0 +1,27 @@
+﻿cat;Instituição financeira;Data;Total da Carteira de Pessoa Jurídica;Micro;Pequena;Média;Grande;Indisponível;Total não Individualizado Pessoa Jurídica;Total Exterior Pessoa Jurídica
+C;C - Conglomerado;set/20;1.491.954.417;42.795.455;153.960.791;288.080.551;526.211.564;16.283.293;40.626;464.582.137
+C%;C - Conglomerado;set/20;70,11%;54,48%;68,16%;73,45%;56,03%;60,72%;96,94%;99,85%
+I;I - Instituição independente;set/20;635.990.333;35.761.175;71.920.661;104.114.240;412.953.116;10.535.103;1.280;704.758
+I%;I - Instituição independente;set/20;29,89%;45,52%;31,84%;26,55%;43,97%;39,28%;3,06%;0,15%
+b1;b1 - Banco Comercial, Banco Múltiplo com Carteira Comercial ou Caixa Econômica;set/20;1.693.320.680;57.360.044;179.197.885;327.154.131;647.187.381;17.241.611;5.719;465.173.910
+b1%;b1 - Banco Comercial, Banco Múltiplo com Carteira Comercial ou Caixa Econômica;set/20;79,58%;73,02%;79,33%;83,42%;68,91%;64,29%;13,65%;99,98%
+b2;b2 - Banco Múltiplo sem Carteira Comercial ou Banco de Investimento ou Banco de Câmbio;set/20;52.403.513;4.862.575;10.038.716;26.139.669;10.828.849;385.771;34.948;112.985
+b2%;b2 - Banco Múltiplo sem Carteira Comercial ou Banco de Investimento ou Banco de Câmbio;set/20;2,46%;6,19%;4,44%;6,66%;1,15%;1,44%;83,40%;0,02%
+b3S;b3S - Cooperativa de Crédito Singulares;set/20;76.312.580;14.792.970;31.808.219;23.460.144;4.418.055;1.832.191;1.000;0
+b3S%;b3S - Cooperativa de Crédito Singulares;set/20;3,59%;18,83%;14,08%;5,98%;0,47%;6,83%;2,39%;0,00%
+b3C;b3C - Central e Confederação de Cooperativas de Crédito;set/20;1.191.248;41.776;27.427;1.099.632;22.248;164;0;0
+b3C%;b3C - Central e Confederação de Cooperativas de Crédito;set/20;0,06%;0,05%;0,01%;0,28%;0,00%;0,00%;0,00%;0,00%
+b4;b4 - Banco de Desenvolvimento;set/20;293.747.009;399.359;2.989.841;8.769.513;274.298.600;7.289.696;0;0
+b4%;b4 - Banco de Desenvolvimento;set/20;13,80%;0,51%;1,32%;2,24%;29,21%;27,18%;0,00%;0,00%
+n1;n1 - Não Bancário de Crédito;set/20;10.969.475;1.099.687;1.819.364;5.571.702;2.409.521;68.962;239;0
+n1%;n1 - Não Bancário de Crédito;set/20;0,52%;1,40%;0,81%;1,42%;0,26%;0,26%;0,57%;0,00%
+n2;n2 - Não Bancário de Mercado de Capitais;set/20;219;219;0;0;0;0;0;0
+n2%;n2 - Não Bancário de Mercado de Capitais;set/20;0,00%;0,00%;0,00%;0,00%;0,00%;0,00%;0,00%;0,00%
+n4;n4 - Instituições de Pagamento;set/20;25;0;0;0;25;0;0;0
+n4%;n4 - Instituições de Pagamento;set/20;0,00%;0,00%;0,00%;0,00%;0,00%;0,00%;0,00%;0,00%
+1;1 - Público;set/20;756.232.832;20.170.625;60.426.081;98.564.712;536.959.032;9.995.995;590;30.115.797
+1%;1 - Público;set/20;35,54%;25,68%;26,75%;25,13%;57,17%;37,27%;1,41%;6,47%
+2;2 - Privado Nacional;set/20;1.010.018.278;45.734.807;123.849.940;201.330.084;250.500.063;12.211.316;4.304;376.387.765
+2%;2 - Privado Nacional;set/20;47,46%;58,22%;54,83%;51,33%;26,67%;45,53%;10,27%;80,89%
+3;3 - Privado com Controle Estrangeiro;set/20;361.693.640;12.651.198;41.605.431;92.299.995;151.705.585;4.611.085;37.013;58.783.333
+3%;3 - Privado com Controle Estrangeiro;set/20;17,00%;16,10%;18,42%;23,53%;16,15%;17,19%;88,32%;12,63%
